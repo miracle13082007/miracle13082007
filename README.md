@@ -21,7 +21,7 @@
 
 ```typescript
 const developer = {
-    name: "yeduguri sandinti jagan mohan reddy",
+    name: "yeduguri sandinti jaglak mohan reddy",
     location: "pulivendula",
     education: {
         degree: "M.SC degree",
