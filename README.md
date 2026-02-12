@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YSR%20Jagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Politics,%20Super%20Fraud%20|%20Problem%20Creator&descAlignY=51&descAlign=50"/>
 
-### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University
+### 👨‍💻 Why Not 175....  • 🎓 No.1 Boku of the College
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+akramsambandalu+That+Matter;Red+Light+Area+Enthusiast;Lanjala +Kompa+Explorer;Always+Bichagaadu+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
