@@ -21,14 +21,14 @@
 
 ```typescript
 const developer = {
-    name: "vijay thalapathy",
-    location: "chennai local",
+    name: "yeduguri sandinti jagan mohan reddy",
+    location: "pulivendula",
     education: {
-        degree: "B.Tech boku",
-        specialization: "politics",
-        university: "stanford university"
+        degree: "M.SC degree",
+        specialization: "politics fraud making",
+        university: "stanford university last year ethical hacking lo erri p**k"
     },
-    workStyle: "Creating meaningful solutions, not just writing code",
+    workStyle: "Creating meaningless solutions, not just minging aasthulu",
     interests: [
         "Russian",
         "Aatagadu vlogs making",
@@ -36,9 +36,9 @@ const developer = {
         "Punju gamer",
         "gadha vachi gu**ha ni de*g*ndi anta...."
     ],
-    currentlyLearning: ["Advanced React Patterns", "SwiftUI", "ML Algorithms"],
-    hobbies: ["Hackathons", "Problem Solving", "Tech Community"],
-    philosophy: "Think beyond the obvious, build impactful applications"
+    currentlyLearning: ["Advanced fraud making", "getting more than 11 seats tutorial", "udemy fraud course"],
+    hobbies: ["dabbulu de*g*ng ", "donga santhakalu", "akrama sambandham, etc....."],
+    philosophy: "why not 175......."
 };
 ```
 
