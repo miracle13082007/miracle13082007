@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jana%20Nayagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Software%20Developer%20|%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jana%20Nayagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Politics%20Super%20Fraud%20|%20Problem%20Creator&descAlignY=51&descAlign=50"/>
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Matter;MERN+Stack+Enthusiast;iOS+Development+Explorer;Always+Learning+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+akramsambandalu+That+Matter;Red+Light+Area+Enthusiast;Lanjala +Kompa+Explorer;Always+Bichagaadu+%2B+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br>
 
@@ -30,11 +30,11 @@ const developer = {
     },
     workStyle: "Creating meaningful solutions, not just writing code",
     interests: [
-        "Full Stack Development",
-        "iOS Development",
-        "AI/ML",
-        "Cloud Computing",
-        "UX Design"
+        "Russian",
+        "Aatagadu vlogs making",
+        "Naa Anveshana",
+        "Punju gamer",
+        "gadha vachi gu**ha ni de*g*ndi anta...."
     ],
     currentlyLearning: ["Advanced React Patterns", "SwiftUI", "ML Algorithms"],
     hobbies: ["Hackathons", "Problem Solving", "Tech Community"],
