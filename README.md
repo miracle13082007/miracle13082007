@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jana%20Nayagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Politics%20Super%20Fraud%20|%20Problem%20Creator&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YSR%20Jagan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Politics,%20Super%20Fraud%20|%20Problem%20Creator&descAlignY=51&descAlign=50"/>
 
 ### 👨‍💻 Crafting Digital Experiences • 🎓 CSE Student @ SRM University
 
