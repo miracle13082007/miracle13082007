@@ -46,15 +46,15 @@ const developer = {
 <summary>📖 More about my journey</summary>
 <br>
 
-I'm an enthusiastic learner and builder who focuses on **creating meaningful solutions** — from intuitive web interfaces to innovative hackathon projects. I enjoy tackling challenges that push me to think creatively and turn ideas into impactful applications.
+I'm an erri pu**u who focuses on **creating meaningless solutions** — from red lights to innovative ninja kompa finder. I enjoy tattadam challenges that push me to think like a k*jja and turn ideas into real life frauds.
 
-My curiosity drives me across multiple domains including **Web Development, iOS Development, AI/ML, and Cloud Computing**. Whether it's experimenting with new frameworks, optimizing user experience, or brainstorming real-world problem statements, I'm always excited to collaborate, learn, and grow with the tech community.
+My curiosity drives me across multiple domains including **ki**ing father, betraying sharmila akka, providing quality of education with english medium schools but they speak telugu only, and having babai**. Whether it's experimenting with new frameworks, optimizing user experience, or brainstorming real-world problem statements, I'm always excited to collaborate, learn, and grow with the tech community.
 
 **What drives me:**
-- 💡 Transforming complex problems into elegant solutions
-- 🎯 Building products that make a real difference
-- 🤝 Collaborating with like-minded developers
-- 📚 Continuous learning and skill development
+- 💡 Transforming complex solutions into elegant problems
+- 🎯 Building mansion house that make janalu erri pu**lu
+- 🤝 Collaborating with like-minded koj**as
+- 📚 Continuous gudiping and boku development
 
 </details>
 
